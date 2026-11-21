@@ -664,3 +664,7 @@ body {
 
 ## 5. Conclusão
 O **Google AntiGravity** no VS Code demonstra o avanço do conceito de *Engenharia de Software Aumentada por IA*. Na prática, a ferramenta atua como um assistente eficiente, transferindo o papel principal do desenvolvedor de apenas escrever código sintático para **planejar a arquitetura, elaborar prompts assertivos e validar os resultados gerados**.
+
+
+## 6. Repositório
+**https://github.com/MatheusWD2006/Trabalho-2-PW-Antigravity-**
