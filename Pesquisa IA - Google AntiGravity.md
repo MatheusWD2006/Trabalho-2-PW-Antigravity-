@@ -3,7 +3,7 @@
 **Disciplina:** Programação Web  
 **Instituição:** Instituto Federal Sul-rio-grandense (IFSUL) — Câmpus Passo Fundo  
 **Docente:** Profª. Jéssica R. Di Domênico  
-**Integrantes:** Matheus Witte Ditz e Gabriel Rizzato  
+**Integrantes:** Matheus Witte Ditz e Gabriel Rizzatto  
 **Data:** 19/11/2026  
 
 ---
