@@ -1,10 +1,10 @@
 ====================================================================
-ROTEIRO DE PROMPTS — APRESENTAÇÃO GOOGLE ANTIGRAVITY (VS CODE)
-Projeto: Lista Telefônica (React + Express em memória)
+ROTEIRO DE PROMPTS
+Projeto: Lista Telefônica
 ====================================================================
 
 --------------------------------------------------------------------
-ETAPA 1: PREPARAÇÃO EM CASA (Antes da apresentação)
+ETAPA 1
 --------------------------------------------------------------------
 
 [PASSO 1 - Criação do Projeto e Instalação das Dependências Base]
@@ -20,31 +20,18 @@ Prompt:
 
 Ao final, me informe os comandos para iniciar os dois servidores."
 
-
-[PASSO 2 - Limpeza do Git Interno e Criação do .gitignore na Raiz]
-
-Prompt:
-"Esta pasta raiz já é o repositório Git principal do projeto. Verifique se existe alguma pasta `.git` oculta dentro de `frontend` ou `backend` e exclua caso exista, para evitar conflitos de submódulos. Além disso, crie um arquivo `.gitignore` na pasta raiz ignorando `node_modules/`, `.env` e `dist/`."
-
-
 --------------------------------------------------------------------
-ETAPA 2: DEMONSTRAÇÃO AO VIVO NA AULA (15 Minutos)
+ETAPA 2:
 --------------------------------------------------------------------
 
-[PASSO 3 - Instalação de Pacote e Script no Backend (Nodemon)]
+[PASSO 2 - Instalação de Pacote e Script no Backend (Nodemon)]
 (Lembrete: Pare o servidor backend com Ctrl+C antes de rodar este prompt)
 
 Prompt:
-"Na pasta `backend`, instale o pacote `nodemon` como dependência de desenvolvimento e adicione o script `"dev"` no `package.json` do servidor para executar a aplicação com auto-reload."
+"Na pasta `backend`, instale o pacote `nodemon` como dependência de desenvolvimento e adicione o script `"dev"` no `package.json` do servidor para executar a aplicação com auto-reload. Informe o comando necessario para rodar o projeto com nodemon."
 
 
-[PASSO 4 - Alteração Visual no Frontend (Cor do Botão)]
-
-Prompt:
-"No componente principal do `frontend`, altere a cor de fundo do botão de adicionar/salvar contato para verde escuro (com texto branco e efeito hover) e deixe as bordas mais arredondadas."
-
-
-[PASSO 5 - Automação de Versionamento (Commit e Push para o GitHub)]
+[PASSO 3 - Automação de Versionamento (Commit e Push para o GitHub)]
 
 Prompt:
 "Na pasta raiz do repositório, verifique o status do Git (`git status`), adicione todas as alterações feitas no projeto, gere uma mensagem de commit descritiva e realize o commit e o push para o repositório remoto no GitHub."
